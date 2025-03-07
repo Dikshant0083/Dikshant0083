@@ -34,17 +34,7 @@ I'm a Computer Science student passionate about learning and developing across t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant0083&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 📈 GitHub Trends
-<div align="center">
-  <a href="https://githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/Dikshant0083/langs?time_range=one_year&include_private=True&loc_metric=changed" alt="Languages Trend" />
-  </a>
-  <a href="https://githubtrends.io">
-    <img align="center" src="https://api.githubtrends.io/user/svg/Dikshant0083/repos?time_range=one_year&include_private=True&loc_metric=changed" alt="Repos Trend" />
-  </a>
-  
-  Check out my <a href="https://githubwrapped.io/Dikshant0083">GitHub Wrapped</a>!
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
